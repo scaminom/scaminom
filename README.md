@@ -44,14 +44,6 @@ Joined Github **2** years ago.
 ### Projects and Dev Stuffs:
 
 <details>
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scaminom&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scaminom&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&token=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" />
-</details>
-
-<details>
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
