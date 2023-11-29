@@ -6,19 +6,16 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=TuUsuario.TuUsuario&style=flat-square&color=0088cc)
 
-I am a passionate 20-year-old Software Engineering student at the Technical University of Ambato. Currently, I'm diving deep into technologies like Rails, React, Java, Ruby, C#, PostgreSQL, MySQL, and MongoDB.
+I am a passionate 20-year-old Software Engineering student at the 'Universidad Tecnica de Amabto'. Currently, I'm diving deep into technologies like Rails, React, Java, Ruby, C#, PostgreSQL, MySQL, and MongoDB.
 
-I have a fervor for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions. My strong foundation includes skills in JavaScript, Node.js, MongoDB, React, Next.js, AWS, and more. I'm currently leading the tech team at MyWays.ai, on a mission to revolutionize how the world hires with AI. 🚀
+I have a fervor for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions.
 
-I've led diverse tech teams covering Frontend, Backend, Machine Learning, and DevOps, building scalable products from scratch with the commitment to making a positive impact through technology.
+I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me playing the guittar.
 
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
+Feel free to connect with me @scaminom for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-Feel free to connect with me @TuUsuario for all things tech or just to say hello! Let's shape the future of tech together. 🌟
+Joined Github **2** years ago.
 
-Joined Github **5** years ago.
-
-Since then I pushed **2880**+ commits, opened **229**+ issues, submitted **323**+ pull requests, created **20**+ gists, and contributed to **9**+ public repositories.
 
 Like My Work?
 
