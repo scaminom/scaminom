@@ -17,19 +17,12 @@ Feel free to connect with me @scaminom for all things tech or just to say hello!
 Joined Github **2** years ago.
 
 
-Like My Work?
-
-<a href="https://www.buymeacoffee.com/TuUsuario" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/TuUsuario/TuUsuario/master/gifs/coder.gif" />
-
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
-- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
-- 💬 &nbsp; Ask me anything [here](https://github.com/TuUsuario/TuUsuario/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: tuemail@example.com.
+- 🛠 &nbsp; I’m currently studing.
+- 🚀 &nbsp; I’m currently exploring WebSockets, AI, Machine Learning, etc.
+- 👾 &nbsp; Fun fact: Everything is an object in Ruby.
+- 📫 &nbsp; Reach me out: josesebastiancaminom@gmai.com
 
 ### My Absolute Favorites:
 
