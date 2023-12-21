@@ -6,11 +6,11 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=TuUsuario.TuUsuario&style=flat-square&color=0088cc)
 
-I am a passionate 20-year-old Software Engineering student at the 'Universidad Tecnica de Amabto'. Currently, I'm diving deep into technologies like Rails, React, Java, Ruby, C#, PostgreSQL, MySQL, and MongoDB.
+I am a passionate 20-year-old Software Engineering student at the 'Universidad Tecnica de Ambato'. Currently, I'm diving deep into technologies like Rails, React, Java, Ruby, C#, PostgreSQL, MySQL, and MongoDB.
 
 I have a fervor for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions.
 
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me playing the guittar.
+I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me playing the guitar.
 
 Feel free to connect with me @scaminom for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
