@@ -5,8 +5,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/scaminom03?igshid=OGQ5ZDc2ODk2ZA==)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=TuUsuario.TuUsuario&style=flat-square&color=0088cc)
+I am a full stack engineer.
 
-I am a passionate 20-year-old Software Engineering student at the 'Universidad Tecnica de Ambato'. Currently, I'm diving deep into technologies like Rails, React, Java, Ruby, C#, PostgreSQL, MySQL, and MongoDB.
+I am a passionate 20-year-old Software Engineering student at the 'Universidad Tecnica de Ambato'. Currently, I'm diving deep into technologies like Rails, React, Java, Ruby, C#, PostgreSQL, MySQL, and MongoDB, React, Angular, TypeScript.
 
 I have a fervor for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions.
 
