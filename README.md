@@ -1,50 +1,59 @@
-## Hey there 👋, I'm [Jose Camino](https://github.com/scaminom/)
+## Hello there 👋, I'm [Sebastian Camino](https://sebastian-portfolio-nine.vercel.app/)
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/SEBASTI54956513?t=U0xhD2OAj04S8cOX_-5Jlg&s=08)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-camino-73b070168/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/scaminom03?igshid=OGQ5ZDc2ODk2ZA==)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-camino-73b070168/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/SEBASTI54956513)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/scaminom03)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=TuUsuario.TuUsuario&style=flat-square&color=0088cc)
-I am a full stack engineer.
+### Full-Stack Developer with a Passion for Functional Programming
 
-I am a passionate 21-year-old Software Engineering student at the 'Universidad Tecnica de Ambato'. Currently, I'm diving deep into backend and DevOps.
+I'm a software engineer with 3+ years of experience developing scalable applications that improve operational efficiency through well-structured APIs and thoughtful system architecture. My work has consistently delivered measurable improvements, including:
 
-I have a fervor for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions.
+- Reducing processing times by 20-40% across multiple projects
+- Enhancing operational efficiency by 25-30%
+- Streamlining deployment processes with CI/CD automation
 
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me playing some music.
+### What I Bring to the Table:
 
-Feel free to connect with me @scaminom for all things tech or just to say hello! Let's shape the future of tech together. 🌟
+- 💻 **Full-Stack Expertise**: Proficient with modern JavaScript frameworks (React, Angular) and backend technologies (Ruby on Rails, NestJS)
+- 🧩 **Architectural Thinking**: Experience implementing design patterns (Facade, Template, Strategy, Decorator) to ensure code modularity and scalability
+- 🔄 **DevOps Knowledge**: Skilled in containerization (Docker), CI/CD pipelines, and cloud infrastructure (AWS)
+- 🧠 **Problem-Solving Mindset**: Passionate about tackling complex challenges and optimizing for performance
+- 👥 **Team Leadership**: Led development teams of up to 8 people, improving collaboration and accelerating project delivery
 
-### Talking about Personal Stuff:
+### Current Focus:
 
-- 🛠 &nbsp; I’m currently studing.
-- 🚀 &nbsp; I’m currently exploring DevOps, AI, Cloud computing.
-- 👾 &nbsp; Fun fact: Everything is an object in Ruby.
-- 📫 &nbsp; Reach me out: josesebastiancaminom@gmai.com
+- 🚀 Exploring DevOps practices and cloud infrastructure
+- 🔍 Integrating functional programming concepts like monads into production applications
+- 🤖 Leveraging AI-assisted development to enhance productivity
+- 🌐 Building scalable real-time systems with WebSockets
 
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 📰 &nbsp; Reading & watching Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups & Tech Events.
-
-### Languages and Tools:
+### Technologies I Work With:
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/ruby/ruby.png" alt="ruby"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" alt="java"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" alt="java"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-<img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js">
-#
+
+### Recent Projects:
+
+- 🏥 **MediPlus**: Led an 8-person team to build a medical record digitization system that reduced manual errors by 30%
+- 🚚 **Macod**: Developed a travel logistics application for heavy transport with optimized deployment
+- 🏫 **Coursfy**: Built scalable e-learning solutions and optimized heavy queries by 35%
+- 🚗 **GabMotors**: Created real-time features with WebSockets and reduced deployment time by 40%
+
+### Let's Connect!
+
+I'm always interested in challenging projects and opportunities to collaborate with other passionate developers. Feel free to reach out at [josesebastiancaminom@gmail.com](mailto:josesebastiancaminom@gmail.com).
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### "Everything is an object in Ruby, and every problem has an elegant solution."
 
 </div>
-
